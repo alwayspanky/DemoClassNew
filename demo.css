@@ -1,0 +1,18 @@
+.head{
+    color: blue;
+    text-align: center;
+}
+
+.sub-heading{
+    color: rgb(58, 70, 179);
+    text-align: center;
+}
+
+.main-div{
+    background-color: rgb(82, 158, 145) ;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 100%;
+    height: 500px;
+
+}
