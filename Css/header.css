@@ -1,0 +1,27 @@
+
+.company a{
+    text-decoration: none;
+    float: left;
+    color: brown;
+}
+
+.header-nav{
+    float: right;
+}
+
+.header-nav a{
+    font-size:large;
+    padding: 10px;
+    font-weight: bold;
+    text-decoration: none;
+    color: darkgreen;
+}
+
+.header-nav a:hover{
+    color: rgb(128, 0, 64);
+}
+
+.btn{
+    margin-left: 40px;
+    margin-top: 40px;
+}
