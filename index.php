@@ -64,7 +64,7 @@
               <img src="" />
             </div>
           <div class="col">
-            <h2>About Us</h2>
+            <h2 class="aboutname">About Us</h2>
             <p>Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.</p>
           </div>
 </div>
